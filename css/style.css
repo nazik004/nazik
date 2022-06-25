@@ -1,0 +1,181 @@
+@import url("https://fonts.googleapis.com/css2? family= New+Tegomin & family= Roboto:wght@100;300;400;500;700;900 & display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 1140px;
+  margin: 0 auto;
+}
+
+#header {
+  box-shadow: 0 3px 13px #171515;
+  padding: 15px 0;
+}
+#header .header--general {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#header .header--general__logo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#header__btn button {
+  padding: 12px 80px 13px 20px;
+  border: none;
+  color: white;
+  background: #171515;
+  border-radius: 15px;
+  font-size: 20px;
+  transition: 0.4s;
+}
+#header__btn button:hover {
+  transform: scale(1.1);
+}
+
+#search {
+  padding: 50px 0;
+}
+#search .search--general input {
+  position: absolute;
+  width: 1125px;
+  z-index: 10;
+  height: 40px;
+  padding-left: 15px;
+  color: gray;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid black;
+}
+
+#hero .hero--general__block {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+#hero .hero--general__block div {
+  margin: 10px 0;
+}
+
+#footer {
+  padding: 30px 0;
+  width: 100%;
+  height: 552px;
+  background: #262626;
+}
+#footer .footer--general .footer--blok {
+  margin-top: 40px;
+  width: 95%;
+  height: 1px;
+  background: #FFFFFF;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+}
+#footer .footer--general .footer--general__icon {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+#footer .footer--general .footer--general__icon .nav {
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  flex-direction: column;
+}
+#footer .footer--general .footer--general__icon .nav a {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  display: flex;
+  align-items: flex-end;
+  color: #FFFFFF;
+  margin-bottom: 20px;
+}
+#footer .footer--general .footer--general__icon .footer--blook__two {
+  padding: 30px 0;
+}
+#footer .footer--general .footer--general__icon .footer--blook__two h1 {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  display: flex;
+  align-items: flex-end;
+  color: #FFFFFF;
+  margin-bottom: 20px;
+}
+#footer .footer--general .footer--general__icon .footer--blook__two h1 span {
+  color: #49A144;
+}
+#footer .footer--general .footer--general__icon .footer--blook__two .select {
+  width: 227px;
+  height: 40px;
+  background: #3B3B3B;
+  border-radius: 2px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  color: #FFFFFF;
+  border: none;
+  cursor: pointer;
+  margin-bottom: 30px;
+}
+#footer .footer--general .footer--general__icon .footer--blook__two .icon {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+#footer .footer--general .footer--general__icon .footer--blook__two .icon div {
+  color: white;
+  cursor: pointer;
+  padding: 0 10px;
+}
+#footer .footer--general .img {
+  padding-top: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#footer .footer--general .img img {
+  padding: 0 20px;
+}
+#footer .footer--general .footer-footer {
+  padding-top: 40px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+#footer .footer--general .footer-footer a {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  display: flex;
+  align-items: flex-end;
+  color: #FFFFFF;
+}
+#footer .footer--general .footer-footer button {
+  width: 80px;
+  height: 80px;
+  background: #59BD5A;
+  border-radius: 2px;
+  cursor: pointer;
+  transition: 0.4s;
+}
+#footer .footer--general .footer-footer button:hover {
+  transform: scale(1.1);
+  background: transparent;
+}
+
+/*# sourceMappingURL=style.css.map */

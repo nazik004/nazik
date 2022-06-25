@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d713fbce-a116-4a0f-a3f0-bc0fc7beeb52" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/reset.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Shape.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/app.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/basket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dimsum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dvijok.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dzy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/makdonalds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/nha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/not.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pizzelove.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sinnabon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/twitter/Stores/ic/24/social/Shape.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/zy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/reset.scss" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/style.scss" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Aq6V00kwZXytQfrapXtNyucJbe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "SCSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\progect\uber\img/makdonal" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d713fbce-a116-4a0f-a3f0-bc0fc7beeb52" name="Changes" comment="" />
+      <created>1655724787322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655724787322</updated>
+      <workItem from="1655724788499" duration="1926000" />
+      <workItem from="1655726758531" duration="284000" />
+      <workItem from="1655727182510" duration="2582000" />
+      <workItem from="1655747962579" duration="596000" />
+      <workItem from="1655750579208" duration="789000" />
+      <workItem from="1655804964809" duration="8000" />
+      <workItem from="1655886674906" duration="1877000" />
+      <workItem from="1655888671673" duration="21000" />
+      <workItem from="1655888875534" duration="2521000" />
+      <workItem from="1655891593135" duration="92000" />
+      <workItem from="1655891711941" duration="46000" />
+      <workItem from="1655891967297" duration="2280000" />
+      <workItem from="1655902299259" duration="2121000" />
+      <workItem from="1655896070552" duration="3542000" />
+      <workItem from="1655899791166" duration="67000" />
+      <workItem from="1655899882463" duration="596000" />
+      <workItem from="1655900500763" duration="1327000" />
+      <workItem from="1656142514339" duration="716000" />
+      <workItem from="1656143404635" duration="204000" />
+      <workItem from="1656143663892" duration="11000" />
+      <workItem from="1656143757101" duration="57000" />
+      <workItem from="1656143906043" duration="6000" />
+      <workItem from="1656143927264" duration="765000" />
+      <workItem from="1656144731998" duration="27000" />
+      <workItem from="1656144906529" duration="2050000" />
+      <workItem from="1656147047974" duration="507000" />
+      <workItem from="1656147664405" duration="224000" />
+      <workItem from="1656147933520" duration="30000" />
+      <workItem from="1656147978000" duration="416000" />
+      <workItem from="1656148434032" duration="165000" />
+      <workItem from="1656148681820" duration="131000" />
+      <workItem from="1656148880799" duration="925000" />
+      <workItem from="1656150169960" duration="66000" />
+      <workItem from="1656150564629" duration="4000" />
+      <workItem from="1656154569719" duration="1722000" />
+      <workItem from="1656156454761" duration="437000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

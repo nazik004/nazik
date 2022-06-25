@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2? family= New+Tegomin & family= Roboto:wght@100;300;400;500;700;900 & display=swap');
+
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 1140px;
+  margin: 0 auto;
+}
+
+
+@mixin btn {
+  padding: 12px 80px 13px 20px;
+  border: none;
+  color: white;
+  background: #171515;
+  border-radius: 15px;
+  font-size: 20px;
+  transition: .4s;
+  &:hover {
+    transform: scale(1.1);
+  }
+}
